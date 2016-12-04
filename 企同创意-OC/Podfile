@@ -1,0 +1,12 @@
+platform :ios,’7.0’
+target ‘企同创意-OC’ do
+pod 'AFNetworking', '~> 3.1.0'
+pod 'SDAutoLayout', '~> 1.52'
+pod 'SDWebImage', '~> 3.7.5'
+pod 'MJRefresh', '~> 3.1.0'
+pod 'MJExtension', '~> 3.0.10'
+pod 'SDCycleScrollView', '~> 1.62’
+pod 'UMengSocialCOM'
+pod ‘IQKeyboardManager’
+pod 'XHLaunchAd'
+end

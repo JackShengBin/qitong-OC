@@ -1,0 +1,53 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (3.3.7)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - SDAutoLayout (1.53)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - UMengSocialCOM (5.2.1)
+  - XHLaunchAd (2.1.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - IQKeyboardManager
+  - MJExtension (~> 3.0.10)
+  - MJRefresh (~> 3.1.0)
+  - SDAutoLayout (~> 1.52)
+  - SDCycleScrollView (~> 1.62)
+  - SDWebImage (~> 3.7.5)
+  - UMengSocialCOM
+  - XHLaunchAd
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SDAutoLayout: ea6e2ae9fbb438aa2feb0c4363dba9297e98638a
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+  XHLaunchAd: e7030dad7e68d15527e1b7500167df6ea6f1b5a6
+
+PODFILE CHECKSUM: 0cd519d195260533262a2f56a1a2cfa9aec07fc6
+
+COCOAPODS: 1.0.1
